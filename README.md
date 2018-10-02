@@ -37,6 +37,11 @@ See also
 
 Change log
 ==========
+ - v1.2.21 Fixed a minor bug in event reporting in play mode. Icons resized.
+ - v1.2.20 Fixed compatibility with PostgreSQL.
+ - v1.2.19 Fixed validation error when filemanager is conditionally disabled.
+ - v1.2.18 Fixed compatibility of GIS editor with Edge browser when using jqueryui > 1.11.
+ - v1.2.17 Auto update timer in GPX tracker.
  - v1.2.16 Bug fixed: exception when completing an activity set to COMPLETION_MARKING_MANUAL.
  - v1.2.15 Full compatibility of QRScanner with IOS 11 (iPhone && iPad).
  - v1.2.14 Fix camera preview sizes. Implement switching cameras.
